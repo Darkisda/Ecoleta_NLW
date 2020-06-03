@@ -1,0 +1,1 @@
+### Criei esse Utils com Interfaces se por um acaso essa aplicação crescer e eu precisar de algo para facilitar as identificações... só por precaução
